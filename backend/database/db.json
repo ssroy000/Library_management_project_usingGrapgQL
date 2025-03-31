@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "1984",
+      "authorId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Brave New World",
+      "authorId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "authorId": "3"
+    },
+    {
+      "id": "1742539526516",
+      "title": "Metamorphosis",
+      "authorId": "4"
+    },
+    {
+      "id": "1742539661127",
+      "title": "Royal Bengal Rahasya",
+      "authorId": "5"
+    },
+    {
+      "id": "1743430702716",
+      "title": "Software engineeering",
+      "authorId": "10002"
+    }
+  ],
+  "authors": [
+    {
+      "id": "1",
+      "name": "George Orwell"
+    },
+    {
+      "id": "2",
+      "name": "Aldous Huxley"
+    },
+    {
+      "id": "3",
+      "name": "J.K. Rowling"
+    },
+    {
+      "id": "4",
+      "name": "Franz Kafka"
+    },
+    {
+      "id": "5",
+      "name": "Satyajit Ray"
+    },
+    {
+      "id": "10002",
+      "name": "Pankaj Jalote"
+    }
+  ]
+}
